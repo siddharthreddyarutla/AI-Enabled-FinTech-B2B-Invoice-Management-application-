@@ -9,3 +9,6 @@ Visualize Data in the form of grids and graphs.
 Perform Searching operations on the invoices.
 CRUD operations on given data.
 
+HOME PAGE
+
+![UI](https://user-images.githubusercontent.com/70971734/178103690-cbc4ff88-254a-4ab7-bd57-a4514907a67c.png)
